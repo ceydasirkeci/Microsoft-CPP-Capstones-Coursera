@@ -3,4 +3,5 @@ This repository includes capstone projects that are developed within the scope o
 
 ## Project Contents 
 **[Capstone-1 Utility Program]:** Multi-function utility program.
+
 **[Capstone-2 Data Processing Application]:** Reads data from JSON file and processes it.
