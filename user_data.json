@@ -1,0 +1,20 @@
+[
+    {
+        "user_name": "Sally",
+        "age": 22,
+        "is_student": true,
+        "talents": ["C++", "Java"]
+    },
+    {
+        "user_name": "Mike",
+        "age": 35,
+        "is_student": false,
+        "talents": ["C++", "Python"]
+    },
+    {
+        "user_name": "John",
+        "age": 25,
+        "is_student": true,
+        "talents": ["Java", "Python"]
+    }
+]
